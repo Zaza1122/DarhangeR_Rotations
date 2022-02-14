@@ -17,7 +17,7 @@
 <br>
 <div align="center">
 
-| Class/Класс | Profile Name /<br>Название профиля | Quick Description /<br>Описание | Quolity* /<br>Качество* | Leveling /<br>Прокачка | Raidable /<br>Рейдовый | Custom Server /<br>Кастомные сервера |
+| Class/Класс | Profile Name /<br>Название профиля | Quick Description /<br>Описание | Quality* /<br>Качество* | Leveling /<br>Прокачка | Raidable /<br>Рейдовый | Custom Server /<br>Кастомные сервера |
 |  :----------------: |  :----------------: |  :----------------: |  :----------------: | :----------------: | :----------------: | :----------------: |
 | ![DK](https://github.com/darhanger/darhanger/blob/master/Assets/Classes/DK.webp) | Blood_DPS_DarhangeR<br>DK_Tank_DarhangeR<br>Frost2W_DarhangeR<br>Unholy_DarhangeR | DPS Profile<br>Tank MultiProfile<br>DPS Profile<br>PvE/PvP MultiProfile | ![89%](https://progress-bar.dev/89)<br>![89%](https://progress-bar.dev/89)<br>![89%](https://progress-bar.dev/89)<br>![89%](https://progress-bar.dev/89) | :x:<br>:x:<br>:x:<br>:x: | :negative_squared_cross_mark:<br>:negative_squared_cross_mark:<br>:negative_squared_cross_mark:<br>:negative_squared_cross_mark: | :x:<br>:x:<br>:x:<br>:x: |
 | ![Druid](https://github.com/darhanger/darhanger/blob/master/Assets/Classes/Druid.webp) | Balance_DarhangeR<br>Feral_Bear_DarhangeR<br>Feral_Cat_DarhangeR<br>Restoration_DarhangeR | DPS Profile<br>Tank Profile<br>DPS Profile<br>Healer Profile | ![89%](https://progress-bar.dev/89)<br>![89%](https://progress-bar.dev/89)<br>![94%](https://progress-bar.dev/94)<br>![89%](https://progress-bar.dev/89) | :x:<br>:x:<br>:heavy_check_mark:<br>:x: | :negative_squared_cross_mark:<br>:negative_squared_cross_mark:<br>:negative_squared_cross_mark:<br>:negative_squared_cross_mark: | :x:<br>:x:<br>:x:<br>:x: |
@@ -31,7 +31,7 @@
 | ![Warrior](https://github.com/darhanger/darhanger/blob/master/Assets/Classes/Warrior.webp) | Arms_DarhangeR<br>Fury_DarhangeR<br>Protection_Warrior | DPS MultiProfile<br>DPS MultiProfile<br>Tank MultiProfile | ![99%](https://progress-bar.dev/99)<br>![99%](https://progress-bar.dev/99)<br>![99%](https://progress-bar.dev/99) | :white_check_mark:<br>:white_check_mark:<br>:white_check_mark: | :white_check_mark:<br>:white_check_mark:<br>:white_check_mark: | ![Sirus](https://github.com/darhanger/darhanger/blob/master/Assets/Servers/Sirus.png)<br>![Sirus](https://github.com/darhanger/darhanger/blob/master/Assets/Servers/Sirus.png)<br>![Sirus](https://github.com/darhanger/darhanger/blob/master/Assets/Servers/Sirus.png) |  
 </div>
 
-* **Quolity/Качество** - Means Performance/Features per $ , compared to competitors, aka: Byster, SecondHandScript, AccLeiTo, etc. / Означает Производительность/Функционал на $ , в сравненение с конкурентами, аки: Byster, SecondHandScript, AccLeiTo, и тд;
+* **Quality/Качество** - Means Performance/Features per $ , compared to competitors, aka: Byster, SecondHandScript, AccLeiTo, etc. / Означает Производительность/Функционал на $ , в сравненение с конкурентами, аки: Byster, SecondHandScript, AccLeiTo, и тд;
 <br>
 
 # Other Profiles Description: 
@@ -39,6 +39,6 @@ Free profile accessed by anyone who has purchased at least one full class / Бе
 
 <div align="center">
 
-| Generic /<br>Общий| Profile Name /<br>Название профиля | Quick Description /<br>Описание | Quolity* /<br>Качество* | Custom Server /<br>Кастомные сервера |
+| Generic /<br>Общий| Profile Name /<br>Название профиля | Quick Description /<br>Описание | Quality* /<br>Качество* | Custom Server /<br>Кастомные сервера |
 |  :----------------: |  :----------------: |  :----------------: |  :----------------: |  :----------------: | 
 | ![Tool](https://github.com/darhanger/darhanger/blob/master/Assets/Classes/Tool.webp) | Gnomish_Multitool_Profile | Anti AFK<br>Auto Click on objects<br>Auto Repair<br>Auto Raid Check<br>Proffession Helper<br>Autoloot without clicking<br>Inscription Support<br>Jewelcrafting Support<br>Skinning Support<br>**Internal Fishbot**| ![100%](https://progress-bar.dev/100) | :white_check_mark: |
