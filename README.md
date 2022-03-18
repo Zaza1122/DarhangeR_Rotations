@@ -4,7 +4,7 @@
 
 # Rotation Profiles Description: 
 
-### Support Symbols:
+### Support Symbols: 
 * :x: - Not Support / Нет поддержки;
 * :white_check_mark: - Full Support / Полная поддержка;
 * :negative_squared_cross_mark: - Work good but not enough / Хорошо работает, но можно и лучше;
